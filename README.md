@@ -5,7 +5,9 @@ Informática para a Internet - Versionamento e Colaboração
 Escola SESI Anísio Teixeira - 2º Ano D
 TWILIGHT MISTRESS BRAZIL
 O projeto apresentado a seguir surgiu de uma indignação simples, a falta de espaço para que garotas pré-adolescentes ou adolescentes fãs da saga cine e literária CREPÚSCULO tivessem para si espaços próprios para a partilha de interesses e indagações críticas sobre a saga em um ambiente seguro no espaço virtual. Percebemos que no ambiente da internet existiam poucos ou nenhum tipo de espaço para que essas meninas pudessem se expressar livremente e completamente livres de preconceitos, por esse motivo surgiu o TWILIGHT MISTRESS BRASIL, um site completamente focado em dar a elas esse tipo de espaço seguro e saudável para a interação e troca de interesses em comum.
+
 FUNCIONALIDADES E TECNOLOGIAS UTILIZADAS
+
 As funcionalidades implementadas tiveram como principal objetivo o conforto e segurança das usuárias. Entre as principais estão:
 Possibilidade de Login
 Essa funcionalidade permite aos usuários se cadastrarem e logarem através de e-mail e senha na sua conta, o que permite retomar o acesso às suas postagens, interações e comentários anteriores.
